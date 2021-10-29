@@ -1,6 +1,6 @@
 # Using Multi Source Inventory module how to calculate shipping cost based on the sources?
 
-    ``keypointers/module-net45``
+``keypointers/module-shipping``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Article](#markdown-header-article)
